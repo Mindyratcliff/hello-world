@@ -14,3 +14,4 @@ for (var pixel of fgImage.values()) {
     }
 }
 print(output);
+
