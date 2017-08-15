@@ -1,13 +1,13 @@
 import org.apache.commons.csv.*;
 import edu.duke.*;
 
-public class week3 {
+public class Week3 {
 
     FileResource fr;
     CSVParser parser;
 
 
-    public week3(String s) {
+    public Week3(String s) {
         fr = new FileResource(s);
         parser = fr.getCSVParser();
 
