@@ -1,6 +1,6 @@
 import edu.duke.StorageResource;
 
-public class week2 {
+public class Week2 {
     public int countGenes(String dna) {
         int startIndex = 0;
         int count = 0;
